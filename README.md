@@ -33,7 +33,7 @@ I developed multiple SQL queries to answer key business questions related to:
 
 1. Invoices with total product costs > $2,000 were most common in specific high-order months.
 2. Southwest (United States, North America) and Canada saw a significant spike in December sales and tax values.
-3. The Finance department had higher resignation patterns among Developers.
+3. The Executive department had higher resignation patterns.
 4. Homeowners with 2+ cars form a major customer segment with strong buying power.
 5. Subcategories like Road Bikes performed best in U.S. internet sales.
 
