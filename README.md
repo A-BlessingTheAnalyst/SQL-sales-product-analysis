@@ -1,7 +1,4 @@
-# SALES AND PRODUCT ANALYSIS
-Analyze sales, Product performance, and Customer behavior using SQL queries.
-
-# Sales and Product Performance Analysis Using SQL
+# SALES AND PRODUCT ANALYSIS PERFORMANCE ANALYSIS USING SQL
 
 This project demonstrates SQL skills through real-world business questions, analyzing sales, customer behavior, and product performance. It covers key metrics like top-selling categories, high-value invoices, and regional trends to deliver actionable insights.
 
@@ -38,7 +35,7 @@ I developed multiple SQL queries to answer key business questions related to:
 2. Sales Territory 1 saw a significant spike in December sales and tax values.
 3. The Finance department had higher resignation patterns among Developers.
 4. Homeowners with 2+ cars form a major customer segment with strong buying power.
-5. Subcategories like [insert your top subcategory] performed best in U.S. internet sales.
+
 
 ---
 
@@ -51,5 +48,5 @@ The SQL analysis helped extract performance trends by region, customer attribute
 ## Recommendations
 
 - Focus sales and marketing efforts on top subcategories and high-value customer segments.
-- Deep-dive into December sales spikes for Sales Territory 1 to identify drivers.
+- Deep-dive into December sales spikes for Sales in Canada to identify drivers.
 - Leverage financial and HR insights for better talent and cost management.
