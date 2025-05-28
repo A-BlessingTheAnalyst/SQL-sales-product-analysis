@@ -1,4 +1,4 @@
-# SALES AND PRODUCT ANALYSIS PERFORMANCE ANALYSIS USING SQL
+# SALES AND PRODUCT PERFORMANCE ANALYSIS USING SQL
 
 This project demonstrates SQL skills through real-world business questions, analyzing sales, customer behavior, and product performance. It covers key metrics like top-selling categories, high-value invoices, and regional trends to deliver actionable insights.
 
